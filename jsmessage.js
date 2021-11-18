@@ -1,1 +1,1 @@
-print (JS message);
+print ("JS message");
